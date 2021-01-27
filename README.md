@@ -1,1 +1,1 @@
-![Map of Tweets in India](https://github.com/dhritiy/Geog458_Lab2/blob/main/img/India%20Tweets.png?raw=true)
+![Map of Tweets in India](img/India Tweets Visualization Map.png)
